@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-    hello world from react
+    hello world 
 
     </div>
   );
